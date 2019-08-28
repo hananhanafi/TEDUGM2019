@@ -102,7 +102,7 @@
                             <h3 class="c-designers-details_summary_location">
                                 TED
                                 <br>
-                                2018
+                                2019
                             </h3>
                         </div>
                         <div class="o-layout_item u-1/2">
